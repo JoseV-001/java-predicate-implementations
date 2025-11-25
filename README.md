@@ -11,4 +11,3 @@ Este projeto contém diferentes formas de implementar a mesma interface funciona
 4. **Expressão lambda declarada**
 5. **Expressão lambda inline**
 
-Cada versão está organizada em sua própria pasta.
