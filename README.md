@@ -1,7 +1,9 @@
-# java-predicate-implementations
+# java-interface-predicate
 # Exemplos de Implementação de Predicate em Java
 
 Este projeto contém diferentes formas de implementar a interface funcional `Predicate<T>`.
+
+O projeto faz um programa que, a partir de uma lista de produtos, remove da lista somente aqueles cujo preço mínimo seja 100.
 
 ## Versões incluídas:
 
